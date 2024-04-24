@@ -1,5 +1,3 @@
-
-
 // Let the compiler do the hard work
 
 #if (F_CPU/1000000)<5  //  For SYS_CLK < 5 MHz
