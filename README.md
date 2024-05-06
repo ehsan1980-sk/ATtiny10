@@ -7,7 +7,7 @@ There are 4 different breadboard compatible modules:
   <li>ATTiny10-Solo Bare Bones dev kit with all 6 pins brought out.</li>
   <li>ATTiny10-LED dev kit with an LED on pin B1.</li>
   <li>ATTiny10-Reset dev kit with a Reset Switch.</li>
-  <li>ATTiny10-Fun dev kit with 3 LEDs on B0, B1, and B2 plus ICSP header.</li>
+  <li>ATTiny10-Fun dev kit with 3 LEDs on B0, B1, and B2, plus ICSP header.</li>
 </ul>
 All of these sketches make use of the <a href="https://github.com/technoblogy/attiny10core" target=_blank>ATtiny10Core from Technoblogy</a> for the Arduino IDE.  The sketches illustrate the use of "registr programming" which is a lower level, just 1 step above assembler, but is emminitely suitable for the constrained flash and, especially, the RAM inside of the ATtiny10.  It uses the Arduino IDE to edit, compile and upload.
 <br><br>
