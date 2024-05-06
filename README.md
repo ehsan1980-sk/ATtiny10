@@ -1,7 +1,7 @@
 # ATtiny10
 Examples for the ATtiny10 boads from CanHobby.ca
 
-This is a collection of Arduino Sketches designed to accompany my YouTube videos covering the ATtiny10 dev boards from <a href="https://CanHobby.ca/attiny" target=_blank>CanHobby</a>.
+This is a collection of Arduino Sketches designed to accompany <a href="https://www.youtube.com/playlist?list=PLvXAxIBATr45rQ-Euz4ix217g1AwmIlRl" target=_blank>my YouTube videos</a> covering the ATtiny10 dev boards from <a href="https://CanHobby.ca/attiny" target=_blank>CanHobby</a>.
 There are 4 different breadboard compatible modules:
 <ul>
   <li>ATTiny10-Solo Bare Bones dev kit with all 6 pins brought out.</li>
